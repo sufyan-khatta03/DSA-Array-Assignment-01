@@ -47,7 +47,7 @@ public class Task02 {
             }
         }
 
-        // display the maximum value nd its index.
+        // display the maximum value nd its index
         System.out.println("Maximum: " + max);
         System.out.println("Maximum Index: " + maxIndex);
 
